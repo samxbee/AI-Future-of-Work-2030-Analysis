@@ -61,7 +61,7 @@ There is **no statistical evidence** in this model that simply acquiring "more s
 
 #### 2. The "Staircase" of Education
 * **Manual Labor:** High risk regardless of education. A High School diploma here carries **~85% automation probability**.
-* **Cognitive Roles:** Education acts as a shield. Automation risk drops precipitously from **80% (High School)** to **<10% (PhD)** for desk jobs.
+* **Cognitive Roles:** Education acts as a shield. Automation risk drops precipitously from **up to 80%desk jobs.
 
 #### 3. The "High-Touch" Safe Haven
 My custom segmentation revealed that **"High-Touch" roles** (Nursing, Teaching) are the most resilient category. Unlike Cognitive roles (which need PhDs to be safe) or Manual roles (which are rarely safe), High-Touch roles showed **low automation risk** across all education levels.
