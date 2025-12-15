@@ -20,6 +20,11 @@ This project analyzes a dataset of 3,000 job roles to predict automation trends 
 
 ---
 
+###  Key Visualizations
+
+![Automation Risk by Role and Education](automation_risk_by_role_education.png)
+*Figure 1: Automation risk patterns across role clusters reveal education's protective effect varies by job type. High-Touch roles (Nursing, Teaching) show consistently low risk regardless of degree, while Cognitive roles benefit significantly from advanced education.*
+
 ###  The Analyst's Journey: From Data to Wisdom
 *This project evolved from a simple visualization exercise into a deep-dive investigation of data integrity and feature engineering.*
 
@@ -84,4 +89,6 @@ My custom segmentation revealed that **"High-Touch" roles** (Nursing, Teaching) 
 ---
 
 *Author: Sam B. Suaaidi*
+
+
 *Connect with me on LinkedIn: https://www.linkedin.com/in/samxbe/*
