@@ -37,9 +37,9 @@ During the cleaning process, I identified significant **redundancy in job listin
 
 #### 3. The Solution (Feature Engineering)
 To find the *nuance* in the data, I engineered my own classification feature, **`Role_Cluster`**, using **Regex logic** to segment the workforce into three distinct categories:
-* ** Manual Labor:** (e.g., Drivers, Mechanics, Technicians)
-* ** Cognitive Desk:** (e.g., Analysts, Customer Support, Software Engineers)
-* ** High-Touch Service:** (e.g., Nurses, Teachers, Doctors)
+* **Manual Labor:** (e.g., Drivers, Mechanics, Technicians)
+* **Cognitive Desk:** (e.g., Analysts, Customer Support, Software Engineers)
+* **High-Touch Service:** (e.g., Nurses, Teachers, Doctors)
 
 ---
 
@@ -67,8 +67,8 @@ There is **no statistical evidence** in this model that simply acquiring "more s
 
 #### 2. The "Staircase" of Education
 * **Manual Labor:** High risk regardless of education. A High School diploma here carries **~85% automation probability**.
-* **Cognitive Roles:** Education acts as a shield. Automation risk drops precipitously from **up to 80%desk jobs.
-
+* **Cognitive Roles:** Education acts as a shield. Automation risk drops precipitously from **80% (High School)** to **<10% (PhD)** for desk jobs.
+  
 #### 3. The "High-Touch" Safe Haven
 My custom segmentation revealed that **"High-Touch" roles** (Nursing, Teaching) are the most resilient category. Unlike Cognitive roles (which need PhDs to be safe) or Manual roles (which are rarely safe), High-Touch roles showed **low automation risk** across all education levels.
 
@@ -92,4 +92,4 @@ My custom segmentation revealed that **"High-Touch" roles** (Nursing, Teaching) 
 *Author: Sam B. Suaaidi*
 
 
-*Connect with me on LinkedIn: https://www.linkedin.com/in/samxbe/*
+[Connect with me on LinkedIn](https://www.linkedin.com/in/samxbe/)
