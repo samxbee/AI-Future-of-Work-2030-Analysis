@@ -20,7 +20,7 @@ This project analyzes a dataset of 3,000 job roles to predict automation trends 
 
 ---
 
-###  Key Visualizations
+### Key Visualizations
 
 ![Automation Risk by Role and Education](Automation%20Risk%20by%20Job%20Type%20%26%20Education%20Level.png)
 
